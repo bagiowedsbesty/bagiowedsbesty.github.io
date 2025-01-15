@@ -415,7 +415,7 @@
   margin-left: 40px;
   margin-right: 40px;
 }
-@media screen and (max-width:420px) {
+@media screen and (max-width:500px) {
   .addtocalendar {
     color: white;
     font-size: 20px;
@@ -484,7 +484,7 @@
   }
 
   .topboxcontainer {
-    font-size: 15px;
+    font-size: 12px;
   }
 
   .walktorem {
