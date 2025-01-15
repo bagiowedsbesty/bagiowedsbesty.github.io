@@ -342,7 +342,7 @@
   /* Ensures the & symbol is above the background */
   font-family: alice;
   /* background-color: #090d12; */
-  background-image: url(../images/wedding-bouquet.jpg);
+  background-image: url(../images/flo.jpg);
   background-repeat: repeat;
   background-clip: text;
   -webkit-background-clip: text;
@@ -451,7 +451,7 @@
     /* Ensures the & symbol is above the background */
     font-family: alice;
     /* background-color: #090d12; */
-    background-image: url(../images/wedding-bouquet.jpg);
+    background-image: url(../images/flo.jpg);
     background-repeat: repeat;
     background-clip: text;
     -webkit-background-clip: text;
@@ -484,7 +484,7 @@
   }
 
   .topboxcontainer {
-    font-size: 20px;
+    font-size: 15px;
   }
 
   .walktorem {
@@ -536,7 +536,7 @@
     /* Ensures the & symbol is above the background */
     font-family: alice;
     /* background-color: #090d12; */
-    background-image: url(../images/wedding-bouquet.jpg);
+    background-image: url(../images/flo.jpg);
     background-repeat: repeat;
     background-clip: text;
     -webkit-background-clip: text;
